@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-image: url('img.jpg');
+    background-position: center;
+}
+
+header{
+    padding-top: 15;
+    padding-bottom: 15;
+}
+h1{
+    font-family: Kaisei HarunoUmi;
+    color: white;
+}
+
+h2{
+    font-family: Kaisei HarunoUmi;
+    color: white;
+}
+ul{
+    font-family: Roboto;
+    font-size: large;
+    color: white;
+}
+
+p{
+    font-size: medium;
+    padding: 20px;
+    font-family: Roboto;
+    color: white;
+}
+
+.insta{
+    width: 100px;
+    height: 100px;
+}
+
+.youtube{
+    margin-left: 20px;
+    width: 100px;
+    height: 100px;
+}
